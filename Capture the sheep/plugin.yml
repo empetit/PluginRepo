@@ -1,0 +1,7 @@
+name: Capture the sheep
+main: com.gmail.capthesheep.Capthesheep
+version: 0.1
+commands:
+   cts:
+      description: Informations sur le plugin.
+      usage: /<command>

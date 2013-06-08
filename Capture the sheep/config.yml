@@ -1,0 +1,13 @@
+# default config.yml
+
+# Distance minimum entre deux drapeaux
+
+minDistFlag: 35
+
+# Nombre de joueurs maximum par equipe
+
+maxJoueur: 10
+
+# Distance maximale à laquelle on peut capturer le drapeau
+
+maxDistCapt: 5
